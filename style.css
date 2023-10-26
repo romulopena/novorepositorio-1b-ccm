@@ -1,7 +1,14 @@
-#img-uruguay{
-    width: 400px;
+.cabecalho{
+    background-color: aqua;
 }
 
-h2{
-    background-color: darkturquoise;
+.principal{
+    background-color: cadetblue;
+    color: red;
+}
+
+.rodape{
+    background-color: black;
+    color: white;
+    text-align: center;
 }
