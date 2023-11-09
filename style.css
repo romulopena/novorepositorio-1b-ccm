@@ -12,6 +12,7 @@
     color: white;
     text-align: center;
 }
-#img1{
+#imagem-uruguay{
     width: 400px;
+    border: 2px blue double;
 }
