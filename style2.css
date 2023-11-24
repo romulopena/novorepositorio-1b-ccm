@@ -10,6 +10,10 @@
     color: white;
     margin: 50px;
 }
-#icone-rodape{
-    width: 30px;
+.icone{
+    width: 5px;
+    border: 5px;
+    border-radius: 15px;
+    border-color: brown;
+    border-style: double;
 }
