@@ -22,3 +22,8 @@
     color: pink;
     text-decoration: none;
 }
+#link-uruguay:hover{
+    font-size: 30px;
+    color: orange;
+    text-decoration: double;
+}
